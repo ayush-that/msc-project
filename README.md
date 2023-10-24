@@ -1,6 +1,8 @@
 ## WebST [BETA]
 WebST is web-based terminal interface that replicates the experience of the st terminal found on my Arch Linux PC. It supports over 50 unique commands.
 
+![Screenshot_20231024_123500](https://github.com/ayush-that/mscproject/assets/110257939/7c1c3076-4ec8-4962-aafe-2983bc70bd0b)
+
 #### Made Using:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
