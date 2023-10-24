@@ -140,13 +140,13 @@ export const emacs = async (args?: string[]): Promise<string> => {
 };
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank'); // ...I'm sorry
+  window.open('https://youtu.be/EWocKcXizow?si=Bt819HOzkfFr4QVH', '_blank'); // ...I'm sorry
   return `Permission denied: with little power comes... no responsibility? `;
 };
 
 export const face = async (args: string[]): Promise<string> => {
   return `<div style="display: inline-flex; align-items: center;">
-  <img style="margin-right: 2em;" src=${HeadshotImg.src} width="180px"/></div>`;
+  <img style="margin-right: 2em;" src=${HeadshotImg.src} width="144px"/></div>`;
 }
 
 // Banner
