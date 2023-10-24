@@ -151,14 +151,9 @@ export const face = async (args: string[]): Promise<string> => {
 
 // Banner
 export const banner = (args?: string[]): string => {
-  return `
- ▄       ▄   <b>os</b>       ●  Arch Linux x86_64
+  return ` ▄       ▄   <b>os</b>       ●  Arch Linux x86_64
 ▄ ▀▄   ▄▀ ▄  <b>kernel</b>   ●  6.1.58-1-lts
 █▄█▀███▀█▄█  <b>packages</b> ●  984 (pacman)
 ▀█████████▀  <b>wm</b>       ●  dwm
- ▄▀     ▀▄   <b>shell</b>    ●  zsh 5.9
-  
-<b>help</b>     = list all commands
-<b>sumfetch</b> = info about me
-<b>repo</b>     = see source code`;
+ ▄▀     ▀▄   <b>shell</b>    ●  zsh 5.9`;
 };
